@@ -4,7 +4,7 @@ For those who never heard abt this game, I provided a link to a video which will
 link: https://www.youtube.com/watch?v=5SdW0_wTX5c
 ## Code Description
 This is a code for multiplayer Tic Tac Toe Game in Python. No predefined library is used.
-Descriptions about the functions that I used in this code.
+If you are facing any problem in understading functions, for that I have provided a description about all the functions that I used in this code.
 ## Display_board():
   It will display the board of the game with current state
 ## valid(pos):
